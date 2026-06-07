@@ -20,6 +20,9 @@ A simple Python desktop application built with Tkinter that organizes files auto
 - shutil
 
 ---
+## 📸 Screenshot
+
+![File Organizer](fileorgnizer_pic.png)
 
 ## 👤 Author
 RaziyehDaryaee
